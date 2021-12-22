@@ -1,0 +1,26 @@
+form {
+  display: flex;
+  justify-content: space-between;
+  margin: 35px 50px;
+}
+
+form input {
+  width: 300px;
+  border-radius: 3px;
+  padding: 10px 15px;
+  background-color: #fff;
+  border: none;
+}
+form input:focus {
+  outline: none;
+}
+
+form select {
+  border-radius: 3px;
+  padding: 10px 15px;
+  background-color: #fff;
+  border: none;
+}
+form select:focus {
+  outline: none;
+}

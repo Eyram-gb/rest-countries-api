@@ -1,0 +1,17 @@
+.header {
+  background-color: #fff;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 50px;
+}
+
+.header span {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.header span p {
+  margin-left: 5px;
+}
